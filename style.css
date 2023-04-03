@@ -638,3 +638,9 @@ body.active {
         max-height: 21.3rem;
     }
 }
+
+@media (max-height: 442px) {
+    .menu-nav-bar ul {
+        height: 55vh;
+    }
+}
